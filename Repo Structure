@@ -1,1 +1,7 @@
-
+part1-eda-churn/
+│
+├── eda_audit.ipynb
+├── data_quality_report.md
+├── business_memo.md
+├── requirements.txt
+└── README.md
