@@ -1,1 +1,19 @@
+Hypothesis 1:
+Customers with high recency are more likely to churn
+
+Supported by: Chart 1
+Observation: churned customers have higher recency
+
+
+Hypothesis 2:
+Low-frequency customers show higher churn risk
+
+Hypothesis 3:
+Customers with more support issues churn more
+
+Hypothesis 4:
+Negative sentiment leads to higher churn
+
+Hypothesis 5:
+Low engagement users are high risk
 
